@@ -1,0 +1,13 @@
+﻿<SolutionConfiguration>
+  <Settings>
+    <AllowParallelTestExecution>True</AllowParallelTestExecution>
+    <MetricsExclusionList>
+      <Value>CarKataAssignment\CarKataAssignment.csproj\Constant</Value>
+      <Value>Implementation\Car.cs:CarKataAssignment\CarKataAssignment.csproj</Value>
+      <Value>Implementation\FuelTank.cs:CarKataAssignment\CarKataAssignment.csproj</Value>
+      <Value>CarKataAssignment\CarKataAssignment.csproj\Interface</Value>
+      <Value>Program.cs:CarKataAssignment\CarKataAssignment.csproj</Value>
+    </MetricsExclusionList>
+    <SolutionConfigured>True</SolutionConfigured>
+  </Settings>
+</SolutionConfiguration>
